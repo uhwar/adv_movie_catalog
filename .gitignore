@@ -1,0 +1,13 @@
+# Large data folder
+/data/
+large-data/
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.env
+.vscode/
+.idea/
+*.swp
+*.swo
